@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "How to get paid!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, voluptatibus saepe. Nemo quas inventore reiciendis eum alias corporis accusantium mollitia ratione ipsum expedita, rem provident obcaecati illo velit fuga.",
+      "likes": 15
+    },
+    {
+      "id": 3,
+      "title": "Buying Top Shots",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, voluptatibus saepe. Nemo quas inventore reiciendis eum alias corporis accusantium mollitia ratione ipsum expedita, rem provident obcaecati illo velit fuga libero deserunt sapiente, accusamus aut eligendi odio. Facere laborum error ipsam necessitatibus odit voluptatibus, atque deleniti a doloribus voluptas labore quaerat,accusamus aut eligendi odio. Facere laborum error ipsam necessitatibus odit voluptatibus, atque deleniti a doloribus voluptas labore quaerat!!",
+      "likes": 23
+    },
+    {
+      "title": "First Post",
+      "body": "loremkjdsaghlkq;abgwrf. v,m.xczmd`sAF/dq ,.mwsdcxzc`'sA|DS|?D.'FW,;A/E.‰≤„",
+      "likes": 0,
+      "id": 4
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer footbal or basketball?",
+      "answerA": "Basketball",
+      "answerB": "Football"
+    },
+    {
+      "id": 2,
+      "question": "Do you prefer tennis or hockey?",
+      "answerA": "Tennis",
+      "answerB": "Hockey"
+    }
+  ]
+}
