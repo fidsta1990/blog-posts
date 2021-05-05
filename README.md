@@ -24,7 +24,7 @@ Functionality added to delet posts and to search for terms in a list of posts.
 
 To use, check more info on JSON SERVER at https://www.npmjs.com/package/json-server
 
-Insall Node
+Install Node using terminal
 
 run npm i json-server / npm install -g json-server (global install on operating system)
 
